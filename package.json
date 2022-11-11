@@ -1,0 +1,21 @@
+{
+  "name": "ethconf",
+  "displayName": "ETHConf",
+  "description": "ETH Conferences Sponsor VS Code Themes",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ETHConf",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ETHConf-color-theme.json"
+      }
+    ]
+  }
+}
